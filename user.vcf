@@ -5,9 +5,9 @@ N:Thomsen;Sonnich;;;
 FN: Sonnich Thomsen 
 ORG:Digi Bunker Pte Ltd;
 TITLE:Bunker Expert
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
+EMAIL;type=INTERNET;type=WORK;type=pref:sonnich@digibunker.com
 TEL;type=WORK;type=VOICE:+65 9116 3708
-item1.ADR;type=WORK;type=pref:;;10 Anson Road\nInternational Plaza\, 16-11;;;079903;Singapore
+item1.ADR;type=WORK;type=pref:;;10 Anson Road\nInternational Plaza\, #16-11;;; (S) 079903;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:digibunker.com
 item2.X-ABLabel:_$!<HomePage>!$_
